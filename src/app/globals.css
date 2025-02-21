@@ -19,3 +19,7 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+:root {
+  --primary-color: #4F46E5; /* Change to any color you like */
+}
+
